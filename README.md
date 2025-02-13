@@ -65,4 +65,11 @@ Developed by **[J Dinesh Chowdary](https://github.com/Dineshchowdaryjampala)** �
 
 ## 📝 License
 This project is **open-source** and available under the [MIT License](LICENSE). Feel free to contribute! 😊
+## 📢 Contributing
+Feel free to **fork** this repository, create a **new branch**, and submit a **pull request**!
 
+## 📬 Contact
+📧 Email: dineshwalker143@gmail.com
+🔗 GitHub: [Your Profile](https://github.com/Dineshchowdaryjampala)
+
+🚀 **Star this repository** if you find it useful! Happy Coding! 😊
