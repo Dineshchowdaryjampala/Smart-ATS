@@ -54,7 +54,12 @@ Smart ATS is an AI-powered resume analyzer that helps job seekers optimize their
 5. Click on **"Submit"** to receive ATS recommendations.
 
 ## 📷 Screenshots
-
+# Home_Page
+![gb](https://github.com/Dineshchowdaryjampala/Smart-ATS/blob/f5f5b5866e1e3796f2a5bc9c5599ae8178d08497/Images/Home_Page.png)
+# Percentage_Match
+![gb](https://github.com/Dineshchowdaryjampala/Smart-ATS/blob/f5f5b5866e1e3796f2a5bc9c5599ae8178d08497/Images/Percentage_Match.png)
+# Tell_Me_About_Resume
+![gb](https://github.com/Dineshchowdaryjampala/Smart-ATS/blob/f5f5b5866e1e3796f2a5bc9c5599ae8178d08497/Images/Tell_me_about_resume%20.png)
 ## 🏆 Author
 Developed by **[J Dinesh Chowdary](https://github.com/Dineshchowdaryjampala)** 🚀
 
